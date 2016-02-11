@@ -1,0 +1,8 @@
+C:\Users\Workstation\Desktop\VB.Net\Application\Dominio\bin\Debug\Dominio.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Workstation\Desktop\VB.Net\Application\Dominio\bin\Debug\Dominio.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Dominio\obj\Debug\Dominio.Resources.resources
+C:\Users\Workstation\Desktop\VB.Net\Application\Dominio\obj\Debug\Dominio.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\VB.Net\Application\Dominio\obj\Debug\Dominio.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\Dominio\obj\Debug\Dominio.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Dominio\obj\Debug\Dominio.pdb

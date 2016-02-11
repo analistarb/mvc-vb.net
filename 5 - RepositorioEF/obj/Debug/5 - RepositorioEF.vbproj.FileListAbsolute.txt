@@ -1,0 +1,14 @@
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\bin\Debug\RepositorioEF.dll.config
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\bin\Debug\RepositorioEF.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\bin\Debug\RepositorioEF.pdb
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\bin\Debug\RepositorioEF.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\bin\Debug\EntityFramework.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\bin\Debug\EntityFramework.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\obj\Debug\5 - RepositorioEF.vbprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\obj\Debug\RepositorioEF.Resources.resources
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\obj\Debug\5 - RepositorioEF.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\obj\Debug\RepositorioEF.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\obj\Debug\RepositorioEF.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\5 - RepositorioEF\obj\Debug\RepositorioEF.pdb

@@ -1,0 +1,16 @@
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\4 - Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\4 - Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\4 - Repositorio\bin\Debug\Repositorio.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\4 - Repositorio\obj\Debug\Repositorio.Resources.resources
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\4 - Repositorio\obj\Debug\4 - Repositorio.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\4 - Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\4 - Repositorio\obj\Debug\Repositorio.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\4 - Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\4 - Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\4 - Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\4 - Repositorio\bin\Debug\Repositorio.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\4 - Repositorio\obj\Debug\Repositorio.Resources.resources
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\4 - Repositorio\obj\Debug\4 - Repositorio.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\4 - Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\4 - Repositorio\obj\Debug\Repositorio.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\4 - Repositorio\obj\Debug\Repositorio.pdb

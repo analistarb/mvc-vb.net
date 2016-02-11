@@ -1,0 +1,15 @@
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\bin\Debug\Aplicacao.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\bin\Debug\Aplicacao.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\bin\Debug\Dominio.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\bin\Debug\Repositorio.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\bin\Debug\Dominio.pdb
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\bin\Debug\Dominio.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\bin\Debug\Repositorio.pdb
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\bin\Debug\Repositorio.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\obj\Debug\Aplicacao.vbprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\obj\Debug\Aplicacao.Resources.resources
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\obj\Debug\Aplicacao.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\obj\Debug\Aplicacao.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\obj\Debug\Aplicacao.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Aplicacao\obj\Debug\Aplicacao.pdb

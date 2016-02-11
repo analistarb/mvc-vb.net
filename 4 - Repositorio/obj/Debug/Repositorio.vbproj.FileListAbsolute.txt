@@ -1,0 +1,8 @@
+C:\Users\Workstation\Desktop\VB.Net\Application\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Workstation\Desktop\VB.Net\Application\Repositorio\bin\Debug\Repositorio.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Repositorio\obj\Debug\Repositorio.Resources.resources
+C:\Users\Workstation\Desktop\VB.Net\Application\Repositorio\obj\Debug\Repositorio.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\VB.Net\Application\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\Repositorio\obj\Debug\Repositorio.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\Repositorio\obj\Debug\Repositorio.pdb

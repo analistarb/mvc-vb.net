@@ -1,0 +1,102 @@
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Application.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Application.pdb
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Application.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Antlr3.Runtime.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Aplicacao.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Dominio.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Newtonsoft.Json.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Net.Http.Formatting.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.Http.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.Http.WebHost.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.Mvc.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.Optimization.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.Razor.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\WebActivator.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\WebGrease.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Repositorio.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Aplicacao.pdb
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Aplicacao.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Dominio.pdb
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Dominio.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.Mvc.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Newtonsoft.Json.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Net.Http.Formatting.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.Http.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.Http.WebHost.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.Razor.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Repositorio.pdb
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\Repositorio.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\obj\Debug\1 - UI.vbprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\obj\Debug\Application.Resources.resources
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\obj\Debug\1 - UI.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\obj\Debug\Application.dll
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\Nova pasta\02) VB.Net\Application\1 - UI\obj\Debug\Application.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Application.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Application.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Application.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Antlr3.Runtime.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Aplicacao.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Dominio.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Newtonsoft.Json.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Net.Http.Formatting.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.Http.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.Http.WebHost.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.Mvc.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.Optimization.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.Razor.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\WebActivator.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\WebGrease.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Repositorio.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Aplicacao.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Aplicacao.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Dominio.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Dominio.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.Mvc.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Newtonsoft.Json.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Net.Http.Formatting.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.Http.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.Http.WebHost.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.Razor.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Repositorio.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\Repositorio.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\obj\Debug\1 - UI.vbprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\obj\Debug\Application.Resources.resources
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\obj\Debug\1 - UI.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\obj\Debug\Application.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\1 - UI\obj\Debug\Application.pdb
