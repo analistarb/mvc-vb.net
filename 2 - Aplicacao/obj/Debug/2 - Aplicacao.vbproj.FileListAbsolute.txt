@@ -28,3 +28,18 @@ C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Applic
 C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\obj\Debug\Aplicacao.dll
 C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\obj\Debug\Aplicacao.xml
 C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\obj\Debug\Aplicacao.pdb
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\bin\Debug\Aplicacao.dll
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\bin\Debug\Aplicacao.xml
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\bin\Debug\Dominio.dll
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\bin\Debug\Repositorio.dll
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\bin\Debug\Dominio.pdb
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\bin\Debug\Dominio.xml
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\bin\Debug\Repositorio.pdb
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\bin\Debug\Repositorio.xml
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\obj\Debug\2 - Aplicacao.vbprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\obj\Debug\Aplicacao.Resources.resources
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\obj\Debug\2 - Aplicacao.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\obj\Debug\Aplicacao.dll
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\obj\Debug\Aplicacao.xml
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\02) VB.Net\Application\2 - Aplicacao\obj\Debug\Aplicacao.pdb

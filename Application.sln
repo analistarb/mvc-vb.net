@@ -9,8 +9,6 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2 - Aplicacao", "2 - Aplica
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1 - UI", "1 - UI\1 - UI.vbproj", "{07031979-C9C7-4AE4-AB9D-6A83D22A1D3A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "5 - RepositorioEF", "5 - RepositorioEF\5 - RepositorioEF.vbproj", "{3BF42450-EF01-4E86-99FD-EBA9EE842A4F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,10 +31,6 @@ Global
 		{07031979-C9C7-4AE4-AB9D-6A83D22A1D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07031979-C9C7-4AE4-AB9D-6A83D22A1D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07031979-C9C7-4AE4-AB9D-6A83D22A1D3A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3BF42450-EF01-4E86-99FD-EBA9EE842A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3BF42450-EF01-4E86-99FD-EBA9EE842A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3BF42450-EF01-4E86-99FD-EBA9EE842A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3BF42450-EF01-4E86-99FD-EBA9EE842A4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
